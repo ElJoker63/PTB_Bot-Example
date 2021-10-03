@@ -34,7 +34,7 @@ def archivo(update, context):
 
 if __name__ == '__main__':
 
-    updater = Updater(token='1977097417:AAExMd699E7HJt7ZUSbRiieXNbxtaYhHuEs', use_context=True)
+    updater = Updater(token='TOKEN', use_context=True)
 
     dp = updater.dispatcher
 # Comando Foto
