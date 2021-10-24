@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler
 
 def start(update, context):
 
-    update.message.reply_text('Hola Humano')
+    update.message.reply_text('Hola soy Tester Bot')
 
 
 if __name__ == '__main__':
